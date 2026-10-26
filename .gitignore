@@ -1,0 +1,11 @@
+.DS_Store
+obj/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lst
+*.bak
+.mrs/
+runing.mrs-workspace
